@@ -1,5 +1,4 @@
-# Tron-Balance-Checker
-Tron Balance Checker
+
 # 🚀 TRON Async Scanner
 
 Scanner wallet TRON berbasis mnemonic (seed phrase) menggunakan **asyncio** untuk performa tinggi + anti rate limit.
