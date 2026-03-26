@@ -3,6 +3,12 @@
 
 Scanner wallet TRON berbasis mnemonic (seed phrase) menggunakan **asyncio** untuk performa tinggi + anti rate limit.
 
+
+## Penting
+- Jangan Set Thread lebih dari 5 Karena Akan Limit
+- ini api key gratisan jadi terbatas 
+
+
 ## ✨ Features
 
 - ⚡ Async scanning (lebih cepat dari threading biasa)
