@@ -23,6 +23,7 @@ Scanner wallet TRON berbasis mnemonic (seed phrase) menggunakan **asyncio** untu
 ## 📦 Requirements
 
 - Python 3.9+
+- rich
 - hdwallet>=3.0.0
 - tronpy>=0.4.0
 - requests>=2.31.0
